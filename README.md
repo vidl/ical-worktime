@@ -51,4 +51,4 @@ So -1 displays the workreports starting yesterday.
 
 Requirements
 ============
-Mac OS X 10.7, 10.8 or 10.9
+Mac OS X 10.7, 10.8 , 10.9, 10.11
